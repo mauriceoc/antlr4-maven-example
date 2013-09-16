@@ -17,7 +17,6 @@
             <groupId>org.antlr</groupId>
             <artifactId>antlr4-runtime</artifactId>
             <version>4.1</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
 
